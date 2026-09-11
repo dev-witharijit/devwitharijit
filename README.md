@@ -12,10 +12,13 @@
 <a href="https://github.com/dev-witharijit">
 <img src="https://img.shields.io/badge/GitHub-dev--witharijit-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:arijitgoswami077@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=dev-witharijit&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
 </p>
 
 </div>
